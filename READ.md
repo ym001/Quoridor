@@ -1,4 +1,3 @@
-
 Description du jeu
 QUORIDOR
 ® & © 1997 Gigamic from a concept of Mirko Marchesi
