@@ -60,6 +60,8 @@ arrêter la partie et revenir à l'état initial
 
 Niveau2
 
+https://www.amazon.fr/ABcédaire-Amoureux-lIntelligence-Artificielle-Mercadier/dp/B0C872FTS3
+
 Un pion ne peut être déplacé que sur une case adjacente.
 Il est impossible d'aller sur une case s'il faut traverser un mur.
 Le programme doit détecter si la partie est gagnée.
